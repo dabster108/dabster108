@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **3108dikshanta@gmail.com**
 
-- ⚡ Fun fact **I play basketball and is and also intrested in complicated programming**
+- ⚡ Fun fact **I play basketball and I am also intrested in complicated programming**
 
 ## 🚀 Languages and Tools:
 
