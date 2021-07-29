@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Internet Speed Tracker!!**
 
-- 🌱 I’m currently learning **Javascript.**
+- 🌱 I’m currently learning **Ruby.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
