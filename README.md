@@ -34,6 +34,9 @@
 <br/>
 <br/>
 
+ 
+<h4 align ="center"> “Any fool can write code that a computer can understand.Good programmers write code that humans can understand.” </h4>
+
 
 
 
