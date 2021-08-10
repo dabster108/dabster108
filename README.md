@@ -2,18 +2,18 @@
 
 
 <div  align = "center">
-                        ### 🙋‍♂️ About Me
+                         ♂ About Me
 
-                      - 🔭 I’m currently working on Internet Speed Tracker!!**
+                      -
+                      
+                      - 🌱 I’m currently learning **JS.**
 
-                       - 🌱 I’m currently learning **Ruby.**
-
-                 - 👯 I’m looking to collaborate on **OpenSource Projects**
+                      - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-              - 📫 How to reach me **3108dikshanta@gmail.com**
+                      - 📫 How to reach me **3108dikshanta@gmail.com**
 
-                    - ⚡ Fun fact **I play basketball and I am also intrested in complicated programming**
+                      - ⚡ Fun fact **I play basketball and I am also intrested in complicated programming**
     </div>
 
 ## 🚀 Languages and Tools:
