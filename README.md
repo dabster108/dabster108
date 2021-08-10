@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div  align = "center">
+<p align ="center">
                          ♂ About Me
 
                       -
@@ -14,7 +14,8 @@
                       - 📫 How to reach me **3108dikshanta@gmail.com**
 
                       - ⚡ Fun fact **I play basketball and I am also intrested in complicated programming**
-    </div>
+  </p>
+   
 
 ## 🚀 Languages and Tools:
 
