@@ -1,4 +1,4 @@
-### Hello World👋
+<h1 align = "center"> ### Hello World👋 </h1>
 <h3 align ="center">♂ About Me!<h3>
  <h4 align ="center">👯 I’m looking to collaborate on **OpenSource Projects**<h4>
    <h5 align ="center">📫 How to reach me ** 3108dikshanta@gmail.com **<h5>
