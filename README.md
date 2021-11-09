@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p align ="left">
+<p align ="center">
   ♂ About Me    
     - 👯 I’m looking to collaborate on **OpenSource Projects**
     - 📫 How to reach me **3108dikshanta@gmail.com**
