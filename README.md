@@ -1,14 +1,10 @@
 ### Hello World👋
+<h3 align ="center">♂ About Me!<h3>
+ <h4 align ="center">👯 I’m looking to collaborate on **OpenSource Projects**<h4>
+   <h5 align ="center">📫 How to reach me ** 3108dikshanta@gmail.com **<h5>
+     <h6 align ="center">⚡ Imp fact ** Programming is not so easy man<h6>
+ 
 
-
-<p align ="center">
-                                  ♂ About Me - (Litt  
-                     - 👯 I’m looking to collaborate on **OpenSource Projects**
-                     - 📫 How to reach me ** 3108dikshanta@gmail.com **
-                     - ⚡ Imp fact ** Programming is not so easy man **
-  
-  </p>
-   
 
 ## 🚀 Languages and Tools:
 
