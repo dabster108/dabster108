@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hello World👋
 
 
 <p align ="center">
-  ♂ About Me    
-    - 👯 I’m looking to collaborate on **OpenSource Projects**
-    - 📫 How to reach me **3108dikshanta@gmail.com**
-    - ⚡ Fun fact **I play basketball and I am also intrested in complicated programming**
+                                  ♂ About Me - (Litt  
+                     - 👯 I’m looking to collaborate on **OpenSource Projects**
+                     - 📫 How to reach me ** 3108dikshanta@gmail.com **
+                     - ⚡ Imp fact ** Programming is not so easy man **
+  
   </p>
    
 
