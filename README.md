@@ -2,13 +2,12 @@
 <h3 align ="center">♂ About Me!<h3>
  <h4 align ="center">👯 I’m looking to collaborate on **OpenSource Projects**<h4>
    <h5 align ="center">📫 How to reach me ** 3108dikshanta@gmail.com **<h5>
-     <h6 align ="center">⚡ Imp fact ** Programming is not so easy man **<h6>
+     <h6 align ="center">⚡ Imp fact ** Programming is not so easy man ** <h6>
  
 
 
-## 🚀 Languages and Tools:
-
-<p align="center"> 
+      <p align = " center " > ## 🚀 Languages and Tools:</p>
+      <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
