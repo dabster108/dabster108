@@ -7,7 +7,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://github.com/dabster108/github-readme-stats"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabster108&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-[![Dikshanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabster108)](https://github.com/dabster108/github-readme-stats)
+
 
 
      
