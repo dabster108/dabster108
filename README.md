@@ -1,6 +1,4 @@
-<h1 align = "center">  Hello Everyone 👋 </h1>
 
- <h1 align = "center"> Languages And Tools 🔥 </h1>
  
  <p align=" center "> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -13,9 +11,6 @@
 
      
 
-
- 
-<h4 align ="center"> “Any fool can write code that a computer can understand.Good programmers write code that humans can understand.” </h4>
 
  
 
