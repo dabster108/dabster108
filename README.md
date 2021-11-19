@@ -3,7 +3,7 @@
 
 [![Dikshanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabster108)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabster108&repo=dabster108)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabster10)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
