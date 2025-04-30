@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dikshanta108@gmail.com**
 
-![snake gif](https://github.com/dabster108/dabster108/blob/output/github-snake-dark.svg)
+
 
 
 
