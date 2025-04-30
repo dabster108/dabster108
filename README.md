@@ -15,6 +15,19 @@
 - 📫 How to reach me **dikshanta108@gmail.com**
 
 
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabster108&theme=tokyonight)
+
+<a href="https://github.com/dabster108">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabster108&theme=tokyonight&utcOffset=4"/>
+</a>
+
+<figure>
+  <embed src="https://wakatime.com/share/@dabster108/your-wakatime-id.svg"></embed>
+</figure>
+
+### ✍️ Random Dev Quote
+> **"Code is just a conversation between logic and creativity."**
+
 
 
 
