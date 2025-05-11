@@ -9,16 +9,11 @@
 
 - 📫 How to reach me **dikshanta108@gmail.com**
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabster108&theme=tokyonight" alt="Profile Stats">
-  </div>
-  <div>
-    <a href="https://github.com/dabster108">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabster108&theme=tokyonight&utcOffset=4" alt="Productive Time"/>
-    </a>
-  </div>
-</div>
+### Profile Stats & Productive Time
+
+| Profile Stats | Productive Time |
+|---------------|-----------------|
+| ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabster108&theme=tokyonight) | [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabster108&theme=tokyonight&utcOffset=4)](https://github.com/dabster108) |
 
 <figure>
   <embed src="https://wakatime.com/share/@dabster108/your-wakatime-id.svg"></embed>
@@ -52,7 +47,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dabster108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dabster108" /></p>
-
 
 ### 🌟 Connect with Me  
 I'm always open to new opportunities, collaborations, and learning! Feel free to reach out.
