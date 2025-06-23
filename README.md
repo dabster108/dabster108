@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dikshanta Chapagain</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | Exploring FastAPI, Backend Systems & Scalable Architectures | Learning & Building from Nepal</h3>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dabster108&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Dikshanta's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dabster108&bg_color=000000&color=ffffff&line=800080&point=ffffff&area=true&area_color=00bfff&hide_border=true&height=400&days=30&grid=true&radius=10&title_color=ffffff&custom_title=Dikshanta's%20Contribution%20Graph%20🔥&theme=dark)
+
 
 - 🔭 I’m currently working on API Gateway – Build an API gateway with rate limiting and authentication. **AuthRate-Gateway**
 
