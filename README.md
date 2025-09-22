@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dikshanta Chapagain <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="30"/></h1>
+<h1 align="center">
+  Hi 👋, I'm Dikshanta Chapagain 
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="30"/>
+</h1>
+
+<p align="center">
+  <a href="https://user-badge.committers.top/nepal/dabster108">
+    <img src="https://user-badge.committers.top/nepal/dabster108.svg" alt="Committers Top Badge"/>
+  </a>
+</p>
 
 
 <h3 align="center">🚀 AI/ML Enthusiast | Exploring FastAPI, Backend Systems & Scalable Architectures | Learning & Building from Nepal</h3>
@@ -22,6 +31,7 @@
 <figure>
   <embed src="https://wakatime.com/share/@dabster108/your-wakatime-id.svg"></embed>
 </figure>
+
 
 ### ✍️ Random Dev Quote
 > **"Code is just a conversation between logic and creativity."**
@@ -59,3 +69,4 @@ I'm always open to new opportunities, collaborations, and learning! Feel free to
 - [GitHub](https://github.com/dabster108)  
 
 Let’s connect and build something amazing together! 🚀
+
