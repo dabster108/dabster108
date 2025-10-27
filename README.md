@@ -10,34 +10,61 @@
 </p>
 
 
-<h3 align="center">🚀 AI/ML Enthusiast | Exploring FastAPI, Backend Systems & Scalable Architectures | Learning & Building from Nepal</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Exploring  (NLP), Deep Learning, and Neural Network architectures </h3>
+<h3 align="center"> Learning & Building from Nepal </h3>
+
+
 
 ![Dikshanta's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dabster108&bg_color=000000&color=ffffff&line=800080&point=ffffff&area=true&area_color=00bfff&hide_border=true&height=400&days=30&grid=true&radius=10&title_color=ffffff&custom_title=Dikshanta's%20Contribution%20Graph%20🔥&theme=dark)
 
 
-- 🔭 I’m currently working on API Gateway – Build an API gateway with rate limiting and authentication. **AuthRate-Gateway**
+- 🔭 Exploring Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) architectures – learning how they capture context and memory in sequential data. **AuthRate-Gateway**
 
-- 🌱 I’m currently learning Interactive Visualizations **(Plotly, Seaborn, Matplotlib)**
+- 🌱 I’m currently learning Transformer Models and BERT **
 
 - 📫 How to reach me **dikshanta108@gmail.com**
 
-### Profile Stats & Productive Time
-
-| Profile Stats | Productive Time |
-|---------------|-----------------|
-| ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabster108&theme=tokyonight) | [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabster108&theme=tokyonight&utcOffset=4)](https://github.com/dabster108) |
 
 
-<figure>
-  <embed src="https://wakatime.com/share/@dabster108/your-wakatime-id.svg"></embed>
-</figure>
+<h3 align="center">  Profile Stats & Productive Time </h3>
+<!-- Row 1: Profile Details -->
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dabster108&theme=transparent" alt="Profile Details"/>
+</div>
+
+<br>
+
+<!-- Row 2: Repos per Language & Most Commit Language -->
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dabster108&theme=transparent" alt="Repos per Language"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dabster108&theme=transparent" alt="Most Commit Language"/>
+</div>
+
+<br>
+
+<!-- Row 3: Stats & Productive Time -->
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabster108&theme=transparent" alt="Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabster108&theme=transparent&utcOffset=8" alt="Productive Time"/>
+</div>
 
 
-### ✍️ Random Dev Quote
+
+<!-- ✍️ Random Dev Quote -->
+<div align="center">
+
+### ✍️ Random Dev Quote  
 > **"Code is just a conversation between logic and creativity."**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+</div>
+
+<br>
+
+<!-- 🧠 Languages and Tools -->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -57,16 +84,32 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-# 💻 Frameworks and Databases:
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dabster108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dabster108" /></p>
+<!-- 💻 Frameworks and Databases -->
+<div align="center">
+
+# 💻 Frameworks and Databases:
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+</div>
+
+
+<div align="center">
 
 ### 🌟 Connect with Me  
 I'm always open to new opportunities, collaborations, and learning! Feel free to reach out.
 
-- [LinkedIn](https://www.linkedin.com/in/dikshanta-chapagain-3597372a2/)  
-- [GitHub](https://github.com/dabster108)  
+ [LinkedIn](https://www.linkedin.com/in/dikshanta-chapagain-3597372a2/)  
+ [GitHub](https://github.com/dabster108)  
 
-Let’s connect and build something amazing together! 🚀
+Let’s connect and build something amazing together! 🚀  </div>
 
