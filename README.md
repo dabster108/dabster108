@@ -20,7 +20,7 @@
 
 - 🔭 Exploring Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) architectures – learning how they capture context and memory in sequential data. **AuthRate-Gateway**
 
-- 🌱 I’m currently learning Transformer Models and BERT **
+- 🌱 I’m currently learning Transformer Models and BERT 
 
 - 📫 How to reach me **dikshanta108@gmail.com**
 
