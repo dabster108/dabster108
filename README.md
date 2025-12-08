@@ -4,6 +4,11 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dabster108&label=Profile%20views&color=0e75b6&style=flat" alt="dabster108" /> 
+</p>
+
+
+<p align="center">
   <a href="https://user-badge.committers.top/nepal/dabster108">
     <img src="https://user-badge.committers.top/nepal/dabster108.svg" alt="Committers Top Badge"/>
   </a>
