@@ -112,9 +112,25 @@
 
 ### 🌟 Connect with Me  
 I'm always open to new opportunities, collaborations, and learning! Feel free to reach out.
+<div align="center">
 
- [LinkedIn](https://www.linkedin.com/in/dikshanta-chapagain-3597372a2/)  
- [GitHub](https://github.com/dabster108)  
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dikshantachapagain/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px"/>
+</a>
+
+
+<a href="https://github.com/dabster108" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/8000ff/github.png" width="28px"/>
+</a>
+
+
+</div>
+
+
+
+</div>
 
 Let’s connect and build something amazing together! 🚀  </div>
 
