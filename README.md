@@ -31,29 +31,22 @@
 
 
 
-<h3 align="center">  Profile Stats & Productive Time </h3>
-<!-- Row 1: Profile Details -->
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dabster108&theme=transparent" alt="Profile Details"/>
-</div>
+<h3 align="center">Profile Stats & Productive Time</h3>
 
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dabster108&theme=transparent" />
+</p>
 
-<!-- Row 2: Repos per Language & Most Commit Language -->
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dabster108&theme=transparent" alt="Repos per Language"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dabster108&theme=transparent" alt="Most Commit Language"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dabster108&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dabster108&theme=transparent" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabster108&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabster108&theme=transparent&utcOffset=8" />
+</p>
 
-<!-- Row 3: Stats & Productive Time -->
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabster108&theme=transparent" alt="Stats"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabster108&theme=transparent&utcOffset=8" alt="Productive Time"/>
-</div>
 
 
 
