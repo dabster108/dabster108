@@ -7,29 +7,28 @@
   <img src="https://komarev.com/ghpvc/?username=dabster108&label=Profile%20views&color=0e75b6&style=flat" alt="dabster108" /> 
 </p>
 
-
 <p align="center">
   <a href="https://user-badge.committers.top/nepal/dabster108">
     <img src="https://user-badge.committers.top/nepal/dabster108.svg" alt="Committers Top Badge"/>
   </a>
 </p>
 
-
-<h3 align="center">🚀 AI/ML Enthusiast | Exploring  (NLP), Deep Learning, and Neural Network architectures </h3>
-<h3 align="center"> Learning & Building from Nepal </h3>
-
-
+<h3 align="center">🧠 AI Engineer in the Making | Wiring Neurons, Orchestrating Agents & Tracing LLMs </h3>
+<h3 align="center"> Building from Nepal — one model at a time 🇳🇵 </h3>
 
 ![Dikshanta's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dabster108&bg_color=000000&color=ffffff&line=800080&point=ffffff&area=true&area_color=00bfff&hide_border=true&height=400&days=30&grid=true&radius=10&title_color=ffffff&custom_title=Dikshanta's%20Contribution%20Graph%20🔥&theme=dark)
 
+- 🔭 Deep-diving into **Artificial Neural Networks** — from backpropagation fundamentals to building custom architectures that actually learn
 
-- 🔭 Exploring Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) architectures – learning how they capture context and memory in sequential data. **AuthRate-Gateway**
+- 🤖 Obsessed with **Multi-Modal Agents** — systems that see, read, reason, and act across text, vision, and tool-use simultaneously
 
-- 🌱 I’m currently learning Transformer Models and BERT 
+- 🌱 Currently exploring **Large Language Models (LLMs)** — prompt engineering, fine-tuning, RAG pipelines, and everything in between
+
+- 📡 Tracking LLM behaviour in production using **Langfuse** — because observability is the new debugging
+
+- ⚙️ Building & studying **Agentic Systems** — autonomous loops, tool-calling agents, memory modules, and multi-agent orchestration
 
 - 📫 How to reach me **dikshanta108@gmail.com**
-
-
 
 <h3 align="center">Profile Stats & Productive Time</h3>
 
@@ -47,13 +46,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabster108&theme=transparent&utcOffset=8" />
 </p>
 
-
-
-
 <!-- ✍️ Random Dev Quote -->
 <div align="center">
 
-### ✍️ Random Dev Quote  
+### ✍️ Random Dev Quote
+
 > **"Code is just a conversation between logic and creativity."**
 
 </div>
@@ -88,6 +85,7 @@
 <div align="center">
 
 # 💻 Frameworks and Databases:
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -100,11 +98,12 @@
 
 </div>
 
-
 <div align="center">
 
-### 🌟 Connect with Me  
+### 🌟 Connect with Me
+
 I'm always open to new opportunities, collaborations, and learning! Feel free to reach out.
+
 <div align="center">
 
 <div align="center">
@@ -113,17 +112,12 @@ I'm always open to new opportunities, collaborations, and learning! Feel free to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px"/>
 </a>
 
-
 <a href="https://github.com/dabster108" target="_blank">
   <img src="https://img.icons8.com/ios-glyphs/30/8000ff/github.png" width="28px"/>
 </a>
 
+</div>
 
 </div>
 
-
-
-</div>
-
-Let’s connect and build something amazing together! 🚀  </div>
-
+Let’s connect and build something amazing together! 🚀 </div>
